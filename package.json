@@ -1,0 +1,17 @@
+{
+  "name": "self-checkout-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkout.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
